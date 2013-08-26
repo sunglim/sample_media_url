@@ -1,0 +1,5 @@
+var media_list = { "http://bilder.rtl.de/tt_hd/trailer_hotelinspektor.mp4",
+                   "http://itv.ard.de/video/timecode.mpeg",
+                   "http://hbbtv.olympia.gl-systemhaus.de/olympia1.ts"
+};
+
